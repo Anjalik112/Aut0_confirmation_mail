@@ -20,16 +20,40 @@ event_details = {
         "whatsapp_link": "https://chat.whatsapp.com/KcJngydTYXGLgDxlAhYzon",
     },
     "Aptitude-test": {
-        "body": "Congratulations {recipient_name} 🥳,\n\n Here is your confirmation email for successful registration in {event} at EventZen3.0! We are happy to say that the competitions you've taken part in are successfully registered. You can visit our Website for more details and guidelines on competitions. The clock is ticking, hurry up!\nYou can submit your work here: {join_link} \nMake sure to submit before the deadline!\nJoin the Whatsapp group link: {whatsapp_link} \n\nSee you soon!\n\nWe look forward to seeing your spark!\n\nSmokey regards,\nTeam Ignite 🔥",
+        "body": "Congratulations {recipient_name} 🥳,\n\n Here is your confirmation email for successful registration in {event} at EventZen3.0! You can visit our Website for more details and guidelines on competitions. The clock is ticking, hurry up!\nYou can submit your work here: {join_link} \nMake sure to submit before the deadline!\nJoin the Whatsapp group link: {whatsapp_link} \n\nSee you soon!\n\nWe look forward to seeing your spark!\n\nSmokey regards,\nTeam Ignite 🔥",
         "join_link": "https://exam.net",
         "whatsapp_link": "https://chat.whatsapp.com/CbILR7JRn3FBOGxiInOB69",
     },
     "Prompt-Competition": {
-        "body": "Congratulations {recipient_name} 🥳,\n\n Here is your confirmation email for successful registration in {event} at EventZen3.0! We are happy to say that the competitions you've taken part in are successfully registered. You can visit our Website for more details and guidelines on competitions. The clock is ticking, hurry up!\nYou can submit your work here: {join_link} \nMake sure to submit before the deadline!\nJoin the Whatsapp group link: {whatsapp_link} \n\nSee you soon!\n\nWe look forward to seeing your spark!\n\nSmokey regards,\nTeam Ignite 🔥",
+         "body": "Congratulations {recipient_name} 🥳,\n\n Here is your confirmation email for successful registration in {event} at EventZen3.0! You can visit our Website for more details and guidelines on competitions. The clock is ticking, hurry up!\nYou can submit your work here: {join_link} \nMake sure to submit before the deadline!\nJoin the Whatsapp group link: {whatsapp_link} \n\nSee you soon!\n\nWe look forward to seeing your spark!\n\nSmokey regards,\nTeam Ignite 🔥",
         "join_link": "https://tinyurl.com/ignitePromptSubmission",
         "whatsapp_link": "https://chat.whatsapp.com/KcJngydTYXGLgDxlAhYzon",
     },
-    # Other event details go here...
+    "Photography-Competition": {
+        "body": "Congratulations {recipient_name} 🥳,\n\n Here is your confirmation email for successful registration in {event} at EventZen3.0! The competitions you've taken part in are successfully registered. You can visit our Website for more details and guidelines on competitions. The clock is ticking, hurry up!\nYou can submit your work here: {join_link} \nMake sure to submit before the deadline!\nJoin the Whatsapp group link: {whatsapp_link} \n\nSee you soon!\n\nWe look forward to seeing your spark!\n\nSmokey regards,\nTeam Ignite 🔥",
+        "join_link": "https://tinyurl.com/ignitephotographySubmission",
+        "whatsapp_link": "https://chat.whatsapp.com/KcJngydTYXGLgDxlAhYzon"
+    },
+    "Poster-Competition": {
+        "body": "Congratulations {recipient_name} 🥳,\n\n Here is your confirmation email for successful registration in {event} at EventZen3.0! The competitions you've taken part in are successfully registered. You can visit our Website for more details and guidelines on competitions. The clock is ticking, hurry up!\nYou can submit your work here: {join_link} \nMake sure to submit before the deadline!\nJoin the Whatsapp group link: {whatsapp_link} \n\nSee you soon!\n\nWe look forward to seeing your spark!\n\nSmokey regards,\nTeam Ignite 🔥",
+        "join_link": "https://tinyurl.com/igniteposterSubmission",
+        "whatsapp_link": "https://chat.whatsapp.com/KcJngydTYXGLgDxlAhYzon"
+    },
+    "BGMI-Gaming": {
+        "body": "Congratulations {recipient_name} 🥳,\n\n Here is your confirmation email for successful registration in {event} at EventZen3.0! The competitions you've taken part in are successfully registered. You can visit our Website for more details and guidelines on competitions. The clock is ticking, hurry up!\nYou can submit your work here: {join_link} \nMake sure to submit before the deadline!\nJoin the Whatsapp group link: {whatsapp_link} \n\nSee you soon!\n\nWe look forward to seeing your spark!\n\nSmokey regards,\nTeam Ignite 🔥",
+        "join_link": "https://tinyurl.com/igniteBGMIGaming",
+        "whatsapp_link": "https://tinyurl.com/BGMIwhatsapp"
+    },
+    "FreeFire-Gaming": {
+        "body": "Congratulations {recipient_name} 🥳,\n\n Here is your confirmation email for successful registration in {event} at EventZen3.0! The competitions you've taken part in are successfully registered. You can visit our Website for more details and guidelines on competitions. The clock is ticking, hurry up!\nYou can submit your work here: {join_link} \nMake sure to submit before the deadline!\nJoin the Whatsapp group link: {whatsapp_link} \n\nSee you soon!\n\nWe look forward to seeing your spark!\n\nSmokey regards,\nTeam Ignite 🔥",
+        "join_link": "https://tinyurl.com/igniteFreeFireGaming",
+        "whatsapp_link": "https://tinyurl.com/FreefireWhatsapp"
+    },
+    "Combo-Offer": {
+        "body": "Congratulations {recipient_name} 🥳,\n\n Here is your confirmation email for successful registration in {event} at EventZen3.0! The competitions you've taken part in are successfully registered. You can visit our Website for more details and guidelines on competitions. The clock is ticking, hurry up!\nYou can submit your work here: {join_link} \nMake sure to submit before the deadline!\nJoin the Whatsapp group link: {whatsapp_link} \n\nSee you soon!\n\nWe look forward to seeing your spark!\n\nSmokey regards,\nTeam Ignite 🔥",
+        "join_link": "https://bento.me/ignitesa",
+        "whatsapp_link": "https://chat.whatsapp.com/KcJngydTYXGLgDxlAhYzon"
+    },
 }
 
 # Map cf_form_id to event names
@@ -41,7 +65,7 @@ event_mapping = {
     "50507273": "Poster-Competition",
     "50519628": "BGMI-Gaming",
     "50519775": "FreeFire-Gaming",
-    "50519775": "Combo-Offer",
+    "50507336": "Combo-Offer",
     # Add other mappings here as needed
 }
 
@@ -77,7 +101,7 @@ def send_confirmation_email(recipient_email, recipient_name, event):
 
         msg.attach(MIMEText(body, 'plain'))
 
-        # Send email without SMTP debug output
+        # Send email
         with smtplib.SMTP('smtp.gmail.com', 587) as server:
             server.starttls()
             server.login(sender_email, sender_password)
